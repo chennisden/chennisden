@@ -2,6 +2,8 @@
 
 I'm a high school junior that enjoys fiddling around with projects, particularly math-contest based ones.
 
+My website is [geometryexplorer.xyz](https://geometryexplorer.xyz). I will migrate to [dennisc.net](https://www.dennisc.net) soon.
+
 ## Projects
 
 Aside from my CTAN packages, I have designed a number of LaTeX classes. Of all my public designs, [bounce](https://github.com/chennisden/bounce) is my favorite, and [chennistex](https://github.com/chennisden/chennistex) also exists. I plan on migrating `cv.cls` (and renaming it) soon, by the by.
