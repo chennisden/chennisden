@@ -2,7 +2,7 @@
 
 I'm a high school junior that enjoys fiddling around with projects, particularly math-contest based ones.
 
-My website is [geometryexplorer.xyz](https://geometryexplorer.xyz). I will migrate to [dennisc.net](https://www.dennisc.net) soon.
+My website is [dennisc.net](https://www.dennisc.net).
 
 ## Projects
 
